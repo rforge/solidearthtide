@@ -1,0 +1,4 @@
+useDynLib(solidearthtide)
+exportPattern("^[[:alpha:]]+")
+
+
