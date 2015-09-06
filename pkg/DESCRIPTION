@@ -1,7 +1,7 @@
 Package: solidearthtide
 Type: Package
 Title: Solid Earth Tide Computation
-Version: 1.0.1
+Version: 1.0.2
 Encoding: UTF-8
 Authors@R: c(person(given = "Jose", family = "Gama", role = c("aut","cre"),
  email = "rxprtgama@gmail.com"),
